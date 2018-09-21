@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Ties/AppData/Local/Temp/Temp1_Introduction-To-HTC-Vive-Starter-1.zip/Introduction-To-HTC-Vive-Starter/Introduction
+    To HTC Vive - Starter/Assets/Scenes/Game.unity
+  isLoaded: 1
+  isActive: 1
